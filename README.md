@@ -4,7 +4,7 @@
 
 > 509 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
-Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 18 Oct 2026.
+Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 20 Oct 2026.
 
 ## Contents
 
@@ -383,7 +383,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | Site | Price | Link | DR | Monthly visits | How to submit |
 | --- | --- | --- | ---: | ---: | --- |
 | [Medium](https://medium.com/) | Free | — | 94 | — | [Guide](https://everybacklink.com/sites/medium?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Blogger](https://blogger.com/) | Free | dofollow | 94 | — | [Guide](https://everybacklink.com/sites/blogger?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Blogger](https://blogger.com/) | Free | — | 94 | — | [Guide](https://everybacklink.com/sites/blogger?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Substack](https://substack.com/) | Free | — | 94 | — | [Guide](https://everybacklink.com/sites/substack?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Hashnode](https://hashnode.com/) | Free | nofollow | 83 | — | [Guide](https://everybacklink.com/sites/hashnode?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [YouTube](https://youtube.com/) | Free | nofollow | 99 | — | [Guide](https://everybacklink.com/sites/youtube?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
