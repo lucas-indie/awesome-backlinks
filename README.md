@@ -9,12 +9,12 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 ## Contents
 
 - [Launch platform](#launch-platform) (64)
-- [AI directory](#ai-directory) (155)
+- [AI directory](#ai-directory) (153)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (27)
-- [Other](#other) (98)
+- [Other](#other) (100)
 
 ## Launch platform
 
@@ -99,7 +99,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ToolPilot](https://toolpilot.ai/) | Freemium | dofollow | 79 | — | [Guide](https://everybacklink.com/sites/toolpilot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Future Tools](https://futuretools.io/) | Free | — | 69 | — | [Guide](https://everybacklink.com/sites/futuretools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIToolly](https://aitoolly.com/) | Paid | dofollow | 63 | — | [Guide](https://everybacklink.com/sites/aitoolly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Findly.tools](https://findly.tools/) | Freemium | dofollow | 82 | — | [Guide](https://everybacklink.com/sites/findly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [MossAI](https://mossai.org/) | Free | dofollow | 76 | — | [Guide](https://everybacklink.com/sites/mossai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIxploria](https://aixploria.com/) | Paid | nofollow | 56 | — | [Guide](https://everybacklink.com/sites/aixploria?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [GPT Demo](https://gptdemo.net/) | Paid | nofollow | 27 | — | [Guide](https://everybacklink.com/sites/gptdemo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -107,7 +106,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ShowMeBest](https://showmebest.ai/) | Freemium | dofollow | 76 | — | [Guide](https://everybacklink.com/sites/showmebest?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIStage](https://aistage.net/) | Paid | dofollow | 71 | — | [Guide](https://everybacklink.com/sites/aistage?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ListedAI](https://listedai.co/) | — | dofollow | 11 | — | [Guide](https://everybacklink.com/sites/listedai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Turbo0](https://turbo0.com/) | Freemium | dofollow | 81 | — | [Guide](https://everybacklink.com/sites/turbo0?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Tools](https://aitools.fyi/) | — | — | 43 | — | [Guide](https://everybacklink.com/sites/aitools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SaaS AI Tools](https://saasaitools.com/) | — | — | 53 | — | [Guide](https://everybacklink.com/sites/saasaitools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Easy With AI](https://easywithai.com/) | Paid | dofollow | 60 | — | [Guide](https://everybacklink.com/sites/easywithai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -466,7 +464,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [F6S](https://f6s.com/) | Free | — | 83 | — | [Guide](https://everybacklink.com/sites/f6s?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Twelve Tools](https://twelve.tools/) | Freemium | dofollow | 83 | — | [Guide](https://everybacklink.com/sites/twelve?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Trustpilot](https://trustpilot.com/) | Freemium | nofollow | 94 | — | [Guide](https://everybacklink.com/sites/trustpilot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Findly.tools](https://findly.tools/) | Freemium | dofollow | 82 | — | [Guide](https://everybacklink.com/sites/findly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Behance](https://behance.net/) | Free | — | 94 | — | [Guide](https://everybacklink.com/sites/behance?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Turbo0](https://turbo0.com/) | Freemium | dofollow | 81 | — | [Guide](https://everybacklink.com/sites/turbo0?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Clutch](https://clutch.co/) | Freemium | nofollow | 91 | — | [Guide](https://everybacklink.com/sites/clutch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AppSumo](https://appsumo.com/) | — | dofollow | 83 | — | [Guide](https://everybacklink.com/sites/appsumo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [EU-Startups](https://eu-startups.com/) | — | — | 79 | — | [Guide](https://everybacklink.com/sites/eu-startups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
