@@ -9,12 +9,12 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 ## Contents
 
 - [Launch platform](#launch-platform) (64)
-- [AI directory](#ai-directory) (156)
+- [AI directory](#ai-directory) (155)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (27)
-- [Other](#other) (97)
+- [Other](#other) (98)
 
 ## Launch platform
 
@@ -94,7 +94,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Dang.ai](https://dang.ai/) | Freemium | — | 82 | — | [Guide](https://everybacklink.com/sites/dang?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Creati.ai](https://creati.ai/) | Paid | dofollow | 51 | — | [Guide](https://everybacklink.com/sites/creati?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [TopAI.tools](https://topai.tools/) | Paid | nofollow | 64 | — | [Guide](https://everybacklink.com/sites/topai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Twelve Tools](https://twelve.tools/) | Freemium | dofollow | 83 | — | [Guide](https://everybacklink.com/sites/twelve?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Futurepedia](https://futurepedia.io/) | — | nofollow | 73 | — | [Guide](https://everybacklink.com/sites/futurepedia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Tools Directory](https://aitoolsdirectory.com/) | — | dofollow | 51 | — | [Guide](https://everybacklink.com/sites/aitoolsdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolPilot](https://toolpilot.ai/) | Freemium | dofollow | 79 | — | [Guide](https://everybacklink.com/sites/toolpilot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -465,6 +464,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Crunchbase](https://crunchbase.com/) | Free | nofollow | 91 | — | [Guide](https://everybacklink.com/sites/crunchbase?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SideProjectors](https://sideprojectors.com/) | Freemium | nofollow | 71 | — | [Guide](https://everybacklink.com/sites/sideprojectors?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [F6S](https://f6s.com/) | Free | — | 83 | — | [Guide](https://everybacklink.com/sites/f6s?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Twelve Tools](https://twelve.tools/) | Freemium | dofollow | 83 | — | [Guide](https://everybacklink.com/sites/twelve?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Trustpilot](https://trustpilot.com/) | Freemium | nofollow | 94 | — | [Guide](https://everybacklink.com/sites/trustpilot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Behance](https://behance.net/) | Free | — | 94 | — | [Guide](https://everybacklink.com/sites/behance?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Clutch](https://clutch.co/) | Freemium | nofollow | 91 | — | [Guide](https://everybacklink.com/sites/clutch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
