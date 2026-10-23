@@ -2,19 +2,19 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 509 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 511 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (64)
+- [Launch platform](#launch-platform) (65)
 - [AI directory](#ai-directory) (153)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (27)
-- [Other](#other) (100)
+- [Other](#other) (101)
 
 ## Launch platform
 
@@ -42,6 +42,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Startup Buffer](https://startupbuffer.com/) | — | dofollow | 44 | — | [Guide](https://everybacklink.com/sites/startupbuffer?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Firsto](https://firsto.co/) | Freemium | nofollow | 57 | — | [Guide](https://everybacklink.com/sites/firsto?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Huntscreens](https://huntscreens.com/) | Freemium | nofollow | 34 | — | [Guide](https://everybacklink.com/sites/huntscreens?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [WeekHack](https://weekhack.com/) | Freemium | — | 43 | — | [Guide](https://everybacklink.com/sites/weekhack?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [StartupLibrary](https://startuplibrary.net/) | Freemium | dofollow | 34 | — | [Guide](https://everybacklink.com/sites/startuplibrary?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FoundrList](https://foundrlist.com/) | Freemium | — | 73 | — | [Guide](https://everybacklink.com/sites/foundrlist?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [HUNT0](https://hunt0.com/) | Freemium | — | 32 | — | [Guide](https://everybacklink.com/sites/hunt0?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -138,10 +139,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [HuntifyAI](https://huntifyai.com/) | Paid | nofollow | 53 | — | [Guide](https://everybacklink.com/sites/huntifyai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIExtension.ai](https://aiextension.ai/) | Freemium | — | 54 | — | [Guide](https://everybacklink.com/sites/aiextension?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FeaturedTool](https://featuredtool.com/) | Freemium | — | 40 | — | [Guide](https://everybacklink.com/sites/featuredtool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [AITopHub](https://aitophub.com/) | — | nofollow | 15 | — | [Guide](https://everybacklink.com/sites/aitophub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AITopHub](https://aitophub.com/) | Freemium | nofollow | 15 | — | [Guide](https://everybacklink.com/sites/aitophub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Tools AI Online](https://tools-ai.online/) | — | dofollow | 19 | — | [Guide](https://everybacklink.com/sites/tools-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [WeekHack](https://weekhack.com/) | Freemium | — | 43 | — | [Guide](https://everybacklink.com/sites/weekhack?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [AI Library](https://ailibrary.ai/) | — | — | 31 | — | [Guide](https://everybacklink.com/sites/ailibrary?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [PickApps](https://pickapps.org/) | Freemium | — | 32 | — | [Guide](https://everybacklink.com/sites/pickapps?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIToolsRecap](https://aitoolsrecap.com/) | Freemium | — | 39 | — | [Guide](https://everybacklink.com/sites/aitoolsrecap?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SimilarLabs](https://similarlabs.com/) | Paid | dofollow | 70 | — | [Guide](https://everybacklink.com/sites/similarlabs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -242,6 +241,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI Whizzy](https://aiwhizzy.com/) | Paid | — | 7 | — | [Guide](https://everybacklink.com/sites/aiwhizzy?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolFound](https://toolfound.com/) | Freemium | dofollow | 15 | — | [Guide](https://everybacklink.com/sites/toolfound?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [MeAgent](https://meagent.io/) | — | — | 0 | — | [Guide](https://everybacklink.com/sites/meagent?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AISO Tools](https://aisotools.com/) | Freemium | nofollow | — | — | [Guide](https://everybacklink.com/sites/aisotools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [4now](https://4now.ai/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/4now?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
@@ -483,6 +484,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ArtStation](https://artstation.com/) | Freemium | — | 91 | — | [Guide](https://everybacklink.com/sites/artstation?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Bing Places](https://bingplaces.com/) | Free | — | 80 | — | [Guide](https://everybacklink.com/sites/bingplaces?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Apple Business \(formerly Business Connect\)](https://business.apple.com/) | Freemium | — | 97 | — | [Guide](https://everybacklink.com/sites/businessconnect-apple?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Library](https://ailibrary.ai/) | — | — | 31 | — | [Guide](https://everybacklink.com/sites/ailibrary?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Webwiki](https://webwiki.com/) | — | — | 74 | — | [Guide](https://everybacklink.com/sites/webwiki?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Slant](https://slant.co/) | — | — | 70 | — | [Guide](https://everybacklink.com/sites/slant?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SubmitDirs](https://submitdirs.com/) | Paid | dofollow | 40 | — | [Guide](https://everybacklink.com/sites/submitdirs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
