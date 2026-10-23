@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 536 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 538 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (178)
+- [AI directory](#ai-directory) (180)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -268,6 +268,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AIGather](https://aigather.in/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aigather?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIMarketly](https://aimarketly.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aimarketly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Aimyflow](https://aimyflow.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aimyflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AiPikr](https://aipikr.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aipikr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIPulse](https://aipulse.is/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aipulse?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
