@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 533 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 536 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (175)
+- [AI directory](#ai-directory) (178)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -265,6 +265,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [aibrew](https://aibrew.io/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aibrew?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AICPB](https://aicpb.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aicpb?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [aiforme.wiki](https://aiforme.wiki/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aiforme?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIGather](https://aigather.in/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aigather?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIMarketly](https://aimarketly.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aimarketly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Aimyflow](https://aimyflow.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aimyflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
