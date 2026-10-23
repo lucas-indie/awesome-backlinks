@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 538 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 546 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (180)
+- [AI directory](#ai-directory) (188)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -270,6 +270,14 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Aimyflow](https://aimyflow.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aimyflow?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AiPikr](https://aipikr.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aipikr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIPulse](https://aipulse.is/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aipulse?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AITools-Directory.com](https://aitools-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aitools-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AITools.sh](https://aitools.sh/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aitools-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [aitoolslist.io](https://aitoolslist.io/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aitoolslist?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIToolsMagic](https://aitoolsmagic.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aitoolsmagic?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIToolsXplorer](https://aitoolsxplorer.in/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aitoolsxplorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [aixplore](https://aixplore.in/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aixplore?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Alieradox](https://alieradox.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/alieradox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Catch AI Information](https://catchaiinfo.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/catchaiinfo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
