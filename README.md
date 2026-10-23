@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 571 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 575 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (213)
+- [AI directory](#ai-directory) (217)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -303,6 +303,10 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [LargeMI](https://www.largemi.com/en) | Free | — | — | — | [Guide](https://everybacklink.com/sites/largemi-en?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [LaunchToolsAI](https://launchtoolsai.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/launchtoolsai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ListAi.cc](https://listai.cc/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/listai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Liteworker](https://liteworker.ai/) | — | — | — | — | [Guide](https://everybacklink.com/sites/liteworker?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LLMTools.in](https://llmtools.in/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/llmtools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Master AI Finder](https://masteraifinder.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/masteraifinder?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [NeedAITool](https://www.needaitool.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/needaitool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
