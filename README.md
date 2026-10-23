@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 546 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 557 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (188)
+- [AI directory](#ai-directory) (199)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -278,6 +278,17 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [aixplore](https://aixplore.in/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aixplore?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Alieradox](https://alieradox.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/alieradox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Catch AI Information](https://catchaiinfo.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/catchaiinfo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [DayToDay.ai](https://daytoday.ai/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/daytoday?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Deekoya AI](https://deekoyaai.in/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/deekoyaai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Delv](https://delv.tools/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/delv?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [DigitalCreatorAI](https://digitalcreatorai.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/digitalcreatorai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [DigitalHelp.uno](https://digitalhelp.uno/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/digitalhelp?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [DiscoverAI](https://discoverai.tools/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/discoverai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Dynamite AI](https://www.dynamite-ai.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/dynamite-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ExploreAI.tools](https://exploreai.tools/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/exploreai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FalcoScan](https://falcoscan.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/falcoscan?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FindMyAI](https://findmyai.com.br/zh) | — | — | — | — | [Guide](https://everybacklink.com/sites/findmyai-com-zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FindToolz](https://findtoolz.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/findtoolz?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
