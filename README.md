@@ -4,7 +4,7 @@
 
 > 509 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
-Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 20 Oct 2026.
+Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
@@ -33,7 +33,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Launchtory](https://launchtory.com/) | Freemium | dofollow | 61 | — | [Guide](https://everybacklink.com/sites/launchtory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Startup Stash](https://startupstash.com/) | — | dofollow | 66 | — | [Guide](https://everybacklink.com/sites/startupstash?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [StartupBase](https://startupbase.io/) | Freemium | nofollow | 74 | — | [Guide](https://everybacklink.com/sites/startupbase?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [StartupRanking](https://startupranking.com/) | — | dofollow | 62 | — | [Guide](https://everybacklink.com/sites/startupranking?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [StartupRanking](https://startupranking.com/) | Freemium | — | 62 | — | [Guide](https://everybacklink.com/sites/startupranking?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [PeerPush](https://peerpush.com/) | Freemium | dofollow | 78 | — | [Guide](https://everybacklink.com/sites/peerpush?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Launching Next](https://launchingnext.com/) | Freemium | dofollow | 55 | — | [Guide](https://everybacklink.com/sites/launchingnext?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [DeepLaunch](https://deeplaunch.io/) | Freemium | dofollow | 72 | — | [Guide](https://everybacklink.com/sites/deeplaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -109,7 +109,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI Tools](https://aitools.fyi/) | — | — | 43 | — | [Guide](https://everybacklink.com/sites/aitools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SaaS AI Tools](https://saasaitools.com/) | — | — | 53 | — | [Guide](https://everybacklink.com/sites/saasaitools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Easy With AI](https://easywithai.com/) | Paid | dofollow | 60 | — | [Guide](https://everybacklink.com/sites/easywithai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [IUU AI](https://iuu.ai/) | Paid | nofollow | 51 | — | [Guide](https://everybacklink.com/sites/iuu?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [IUU AI](https://iuu.ai/) | Paid | — | 51 | — | [Guide](https://everybacklink.com/sites/iuu?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Ubersuggest AI Tools](https://aitools.neilpatel.com/) | — | — | 91 | — | [Guide](https://everybacklink.com/sites/aitools-neilpatel?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Best AI Tools Directory](https://bai.tools/) | Freemium | dofollow | 47 | — | [Guide](https://everybacklink.com/sites/bai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Dofollow.Tools](https://dofollow.tools/) | Freemium | dofollow | 74 | — | [Guide](https://everybacklink.com/sites/dofollow?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
