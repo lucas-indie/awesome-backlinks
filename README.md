@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 557 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 560 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (199)
+- [AI directory](#ai-directory) (202)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -289,6 +289,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [FalcoScan](https://falcoscan.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/falcoscan?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FindMyAI](https://findmyai.com.br/zh) | — | — | — | — | [Guide](https://everybacklink.com/sites/findmyai-com-zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FindToolz](https://findtoolz.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/findtoolz?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Forward Future](https://forwardfuture.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/forwardfuture?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Free AI Tools Directory](https://free-ai-tools-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/free-ai-tools-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FreeAio](https://freeaio.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/freeaio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
