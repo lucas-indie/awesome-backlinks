@@ -131,7 +131,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI Tools](https://aitools.inc/) | Freemium | — | 67 | — | [Guide](https://everybacklink.com/sites/aitools-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolRain](https://toolrain.com/) | Freemium | dofollow | 66 | — | [Guide](https://everybacklink.com/sites/toolrain?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolScout](https://toolscout.ai/) | Freemium | — | 29 | — | [Guide](https://everybacklink.com/sites/toolscout?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [AIDirs](https://aidirs.org/) | — | — | 65 | — | [Guide](https://everybacklink.com/sites/aidirs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIDirs](https://aidirs.org/) | Freemium | — | 65 | — | [Guide](https://everybacklink.com/sites/aidirs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [llms.txt Directory](https://llmstxt.site/) | Free | — | 63 | — | [Guide](https://everybacklink.com/sites/llmstxt?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [StartupHub.ai](https://startuphub.ai/) | Freemium | — | 63 | 500K | [Guide](https://everybacklink.com/sites/startuphub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [That AI Collection](https://thataicollection.com/) | Paid | — | 44 | — | [Guide](https://everybacklink.com/sites/thataicollection?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -260,7 +260,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Domain Rank App](https://domainrank.app/) | Freemium | dofollow | 67 | — | [Guide](https://everybacklink.com/sites/domainrank?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Yo.directory](https://yo.directory/) | Freemium | — | 69 | — | [Guide](https://everybacklink.com/sites/yo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolFame](https://toolfame.com/) | Freemium | dofollow | 76 | — | [Guide](https://everybacklink.com/sites/toolfame?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [TopTool](https://toptool.app/) | — | dofollow | 24 | — | [Guide](https://everybacklink.com/sites/toptool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [TopTool](https://toptool.app/) | Paid | dofollow | 24 | — | [Guide](https://everybacklink.com/sites/toptool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ctrlalt.cc](https://ctrlalt.cc/) | — | dofollow | 51 | — | [Guide](https://everybacklink.com/sites/ctrlalt?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Tekpon](https://tekpon.com/) | Paid | — | 72 | — | [Guide](https://everybacklink.com/sites/tekpon?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Softpedia](https://softpedia.com/) | — | — | 86 | — | [Guide](https://everybacklink.com/sites/softpedia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
