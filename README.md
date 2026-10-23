@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 511 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 518 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (153)
+- [AI directory](#ai-directory) (160)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -243,6 +243,13 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [MeAgent](https://meagent.io/) | — | — | 0 | — | [Guide](https://everybacklink.com/sites/meagent?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AISO Tools](https://aisotools.com/) | Freemium | nofollow | — | — | [Guide](https://everybacklink.com/sites/aisotools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [4now](https://4now.ai/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/4now?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Best Tools](https://aibesttools.org/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aibesttools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Bookmarks](https://aibookmarks.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aibookmarks?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Gear Base](https://aigearbase.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aigearbase?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Green Pages](https://www.aigreenpages.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aigreenpages?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Kendra](https://aikendra.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aikendra?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Made Easy](https://aimadeeasy.app/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aimadeeasy?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Navbar](https://ainavbar.ai/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ainavbar?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
