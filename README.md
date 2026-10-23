@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 575 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 585 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (217)
+- [AI directory](#ai-directory) (227)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -307,6 +307,16 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [LLMTools.in](https://llmtools.in/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/llmtools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Master AI Finder](https://masteraifinder.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/masteraifinder?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [NeedAITool](https://www.needaitool.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/needaitool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [NeuronFeed](https://neuronfeed.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/neuronfeed?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [New AI Tools Today](https://newaitoolstoday.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/newaitoolstoday?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Nextool.ai](https://nextool.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/nextool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [NextPedia](https://nextpedia.io/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/nextpedia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ProfitTools AI](https://profittoolsai.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/profittoolsai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [PromptHive](https://prompthive.pages.dev/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/prompthive-pages?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Stackdrop](https://getstackdrop.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/getstackdrop?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Stckfndr](https://stckfndr.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/stckfndr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [TechReel](https://techreel.in/) | — | — | — | — | [Guide](https://everybacklink.com/sites/techreel?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ThatsMyAI](https://thatsmy.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/thatsmy?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
