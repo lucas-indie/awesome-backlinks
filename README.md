@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 560 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 571 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (202)
+- [AI directory](#ai-directory) (213)
 - [SaaS directory](#saas-directory) (50)
 - [Community](#community) (72)
 - [Blog platform](#blog-platform) (43)
@@ -292,6 +292,17 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Forward Future](https://forwardfuture.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/forwardfuture?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Free AI Tools Directory](https://free-ai-tools-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/free-ai-tools-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FreeAio](https://freeaio.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/freeaio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Generator AI Tools](https://aigenerator.tools/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aigenerator?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Get AI Tools](https://getaitools.site/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/getaitools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Goze.tools](https://goze.tools/zh) | — | — | — | — | [Guide](https://everybacklink.com/sites/goze-zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Hypertools](https://hypertools.so/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/hypertools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Intelligent Tools](https://intelligenttools.co/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/intelligenttools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [JustPickAi](https://justpickai.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/justpickai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [KeelTools](https://keeltools.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/keeltools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Lachief.io](https://www.lachief.io/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/lachief?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LargeMI](https://www.largemi.com/en) | Free | — | — | — | [Guide](https://everybacklink.com/sites/largemi-en?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LaunchToolsAI](https://launchtoolsai.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/launchtoolsai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ListAi.cc](https://listai.cc/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/listai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
