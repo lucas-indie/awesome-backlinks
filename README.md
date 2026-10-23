@@ -257,7 +257,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [FinancesOnline](https://financesonline.com/) | — | — | 87 | — | [Guide](https://everybacklink.com/sites/financesonline?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [GoodFirms](https://goodfirms.co/) | Freemium | nofollow | 87 | — | [Guide](https://everybacklink.com/sites/goodfirms?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Crozdesk](https://crozdesk.com/) | — | nofollow | 74 | — | [Guide](https://everybacklink.com/sites/crozdesk?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Domain Rank App](https://domainrank.app/) | — | dofollow | 67 | — | [Guide](https://everybacklink.com/sites/domainrank?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Domain Rank App](https://domainrank.app/) | Freemium | dofollow | 67 | — | [Guide](https://everybacklink.com/sites/domainrank?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Yo.directory](https://yo.directory/) | Freemium | — | 69 | — | [Guide](https://everybacklink.com/sites/yo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolFame](https://toolfame.com/) | Freemium | dofollow | 76 | — | [Guide](https://everybacklink.com/sites/toolfame?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [TopTool](https://toptool.app/) | — | dofollow | 24 | — | [Guide](https://everybacklink.com/sites/toptool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
