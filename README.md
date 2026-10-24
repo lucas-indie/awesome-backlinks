@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 651 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 652 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -10,7 +10,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 
 - [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (252)
-- [SaaS directory](#saas-directory) (58)
+- [SaaS directory](#saas-directory) (59)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
@@ -430,6 +430,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Hubiify](https://hubiify.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/hubiify?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [IndieHustles](https://indiehustles.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/indiehustles?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [once.tools](https://once.tools/) | — | — | — | — | [Guide](https://everybacklink.com/sites/once?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SaaS Dealer](https://www.saasdealer.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/saasdealer?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
