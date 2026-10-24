@@ -2,13 +2,13 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 617 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 623 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (69)
+- [Launch platform](#launch-platform) (75)
 - [AI directory](#ai-directory) (251)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
@@ -89,6 +89,12 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Listed Startups](https://listedstartups.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/listedstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Spotlitely](https://www.spotlitely.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/spotlitely?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SuperPublic](https://superpublic.org/) | — | — | — | — | [Guide](https://everybacklink.com/sites/superpublic?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [The Hack Stack](https://thehackstack.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/thehackstack?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Today Launches](https://todaylaunches.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/todaylaunches?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [UpPeek](https://uppeek.app/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/uppeek?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [What Launched Today](https://whatlaunched.today/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/whatlaunched?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AINave](https://ainave.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/ainave?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Better Launch](https://www.betterlaunch.co/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/betterlaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
