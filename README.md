@@ -10,8 +10,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 
 - [Launch platform](#launch-platform) (65)
 - [AI directory](#ai-directory) (228)
-- [SaaS directory](#saas-directory) (50)
-- [Community](#community) (72)
+- [SaaS directory](#saas-directory) (49)
+- [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (27)
 - [Other](#other) (101)
@@ -345,7 +345,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Websites Crawl](https://websitescrawl.com/) | — | — | 45 | — | [Guide](https://everybacklink.com/sites/websitescrawl?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [StartUs](https://startus.cc/) | — | — | 72 | — | [Guide](https://everybacklink.com/sites/startus?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Tool Finder](https://toolfinder.co/) | Paid | — | 59 | — | [Guide](https://everybacklink.com/sites/toolfinder?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Vuink](https://vuink.com/) | — | — | 28 | — | [Guide](https://everybacklink.com/sites/vuink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AbabTools](https://ababtools.com/) | — | dofollow | 43 | — | [Guide](https://everybacklink.com/sites/ababtools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [BizMenia \(formerly BigStartups\)](https://bizmenia.com/) | Freemium | — | 28 | — | [Guide](https://everybacklink.com/sites/bigstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FiveTaco](https://fivetaco.com/) | — | dofollow | 33 | — | [Guide](https://everybacklink.com/sites/fivetaco?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -405,6 +404,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Linux.do](https://linux.do/) | — | — | 76 | — | [Guide](https://everybacklink.com/sites/linux?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [4chan](https://4chan.org/) | — | — | 75 | — | [Guide](https://everybacklink.com/sites/4chan?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Coder Legion](https://coderlegion.com/) | — | — | 44 | — | [Guide](https://everybacklink.com/sites/coderlegion?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Vuink](https://vuink.com/) | — | — | 28 | — | [Guide](https://everybacklink.com/sites/vuink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Dvach \(2ch.hk\)](https://2ch.hk/) | — | — | 50 | — | [Guide](https://everybacklink.com/sites/2ch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Ahlamontada](https://ahlamontada.com/) | Free | — | 61 | — | [Guide](https://everybacklink.com/sites/ahlamontada?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [DataTau](https://datatau.net/) | — | — | 11 | — | [Guide](https://everybacklink.com/sites/datatau?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
