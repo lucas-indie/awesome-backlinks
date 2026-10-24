@@ -11,10 +11,10 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (252)
 - [SaaS directory](#saas-directory) (73)
-- [Community](#community) (74)
+- [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (139)
+- [Other](#other) (140)
 
 ## Launch platform
 
@@ -489,7 +489,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ReverbNation](https://reverbnation.com/) | Freemium | dofollow | 90 | — | [Guide](https://everybacklink.com/sites/reverbnation?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Mixcloud](https://mixcloud.com/) | Freemium | nofollow | 91 | — | [Guide](https://everybacklink.com/sites/mixcloud?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SubLov](https://sublov.com/) | — | dofollow | 7 | — | [Guide](https://everybacklink.com/sites/sublov?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Bolworld](https://bolworld.com/) | — | — | 10 | — | [Guide](https://everybacklink.com/sites/bolworld?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Gaming Sorted](https://gamingsorted.com/) | — | dofollow | 16 | — | [Guide](https://everybacklink.com/sites/gamingsorted?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [3rrend](https://3rrend.com/) | — | nofollow | 28 | — | [Guide](https://everybacklink.com/sites/3rrend?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Bubble Forum](https://forum.bubble.io/) | — | nofollow | 87 | — | [Guide](https://everybacklink.com/sites/forum-bubble?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -654,6 +653,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Instapaper](https://instapaper.com/) | Freemium | — | 81 | — | [Guide](https://everybacklink.com/sites/instapaper?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AstroDir](https://astrodir.com/) | Freemium | dofollow | 29 | — | [Guide](https://everybacklink.com/sites/astrodir?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ZeusPage](https://zeuspage.org/) | — | — | 13 | — | [Guide](https://everybacklink.com/sites/zeuspage?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Bolworld](https://bolworld.com/) | — | — | 10 | — | [Guide](https://everybacklink.com/sites/bolworld?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Thomasnet](https://thomasnet.com/) | Freemium | nofollow | 85 | — | [Guide](https://everybacklink.com/sites/thomasnet?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Magic.ly](https://magic.ly/) | Free | nofollow | 81 | — | [Guide](https://everybacklink.com/sites/magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Submit.co](https://submit.co/) | — | — | 33 | — | [Guide](https://everybacklink.com/sites/submit?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
