@@ -10,11 +10,11 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 
 - [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (252)
-- [SaaS directory](#saas-directory) (59)
+- [SaaS directory](#saas-directory) (58)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (106)
+- [Other](#other) (107)
 
 ## Launch platform
 
@@ -205,7 +205,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI Center](https://aicenter.ai/) | Paid | dofollow | 31 | — | [Guide](https://everybacklink.com/sites/aicenter?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Parabellum](https://aiparabellum.com/) | Paid | dofollow | 37 | — | [Guide](https://everybacklink.com/sites/aiparabellum?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI-Search](https://ai-search.io/) | — | dofollow | 34 | — | [Guide](https://everybacklink.com/sites/ai-search?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Open Pedia AI](https://openpedia.io/) | — | — | 30 | — | [Guide](https://everybacklink.com/sites/openpedia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Open Pedia AI](https://openpedia.io/) | Paid | — | 30 | — | [Guide](https://everybacklink.com/sites/openpedia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [LaunchSoar](https://launchsoar.com/) | Freemium | dofollow | 46 | — | [Guide](https://everybacklink.com/sites/launchsoar?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [The Rundown AI \(Supertools\)](https://rundown.ai/) | — | dofollow | 49 | — | [Guide](https://everybacklink.com/sites/rundown?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Marketing Directory](https://aimarketing.directory/) | — | dofollow | 15 | — | [Guide](https://everybacklink.com/sites/aimarketing?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -398,7 +398,6 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [BizMenia \(formerly BigStartups\)](https://bizmenia.com/) | Freemium | — | 28 | — | [Guide](https://everybacklink.com/sites/bigstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FiveTaco](https://fivetaco.com/) | — | dofollow | 33 | — | [Guide](https://everybacklink.com/sites/fivetaco?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Dirs.cc](https://dirs.cc/) | Freemium | dofollow | 42 | — | [Guide](https://everybacklink.com/sites/dirs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [Submission Web Directory](https://submissionwebdirectory.com/) | — | dofollow | 61 | — | [Guide](https://everybacklink.com/sites/submissionwebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolCenter](https://toolcenter.ai/) | Paid | nofollow | 11 | — | [Guide](https://everybacklink.com/sites/toolcenter?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Toolio](https://toolio.ai/) | Paid | dofollow | 36 | — | [Guide](https://everybacklink.com/sites/toolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [TrustRadius](https://trustradius.com/) | Freemium | — | 85 | — | [Guide](https://everybacklink.com/sites/trustradius?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -636,6 +635,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Blogarama](https://blogarama.com/) | Freemium | — | 73 | — | [Guide](https://everybacklink.com/sites/blogarama?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Hotfrog](https://hotfrog.com/) | — | nofollow | 82 | — | [Guide](https://everybacklink.com/sites/hotfrog?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Brownbook](https://brownbook.net/) | Free | dofollow | 80 | — | [Guide](https://everybacklink.com/sites/brownbook?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Submission Web Directory](https://submissionwebdirectory.com/) | Freemium | dofollow | 61 | — | [Guide](https://everybacklink.com/sites/submissionwebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Instapaper](https://instapaper.com/) | Freemium | — | 81 | — | [Guide](https://everybacklink.com/sites/instapaper?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AstroDir](https://astrodir.com/) | Freemium | dofollow | 29 | — | [Guide](https://everybacklink.com/sites/astrodir?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ZeusPage](https://zeuspage.org/) | — | — | 13 | — | [Guide](https://everybacklink.com/sites/zeuspage?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
