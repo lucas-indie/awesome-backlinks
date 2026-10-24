@@ -65,7 +65,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [LaunchIgniter](https://launchigniter.com/) | Freemium | dofollow | 75 | — | [Guide](https://everybacklink.com/sites/launchigniter?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Mergeek](https://mergeek.com/) | Free | — | 44 | — | [Guide](https://everybacklink.com/sites/mergeek?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Website Hunt](https://websitehunt.co/) | — | — | 31 | — | [Guide](https://everybacklink.com/sites/websitehunt?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [LaunchClash](https://launchclash.com/) | — | dofollow | 52 | — | [Guide](https://everybacklink.com/sites/launchclash?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LaunchClash](https://launchclash.com/) | Free | dofollow | 52 | — | [Guide](https://everybacklink.com/sites/launchclash?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Shipyard HQ](https://shipyardhq.dev/) | Freemium | — | 35 | — | [Guide](https://everybacklink.com/sites/shipyardhq?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [LaunchitX](https://launchitx.com/) | — | — | 50 | — | [Guide](https://everybacklink.com/sites/launchitx?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [uFind](https://ufind.best/) | Freemium | nofollow | 69 | — | [Guide](https://everybacklink.com/sites/ufind?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
@@ -219,7 +219,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI Agent Hub](https://aiagentehub.com/) | Freemium | dofollow | 21 | — | [Guide](https://everybacklink.com/sites/aiagentehub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AIG123](https://aig123.com/) | Freemium | dofollow | 37 | — | [Guide](https://everybacklink.com/sites/aig123?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Tool Hub](https://aitoolhub.net/) | Paid | dofollow | 8 | — | [Guide](https://everybacklink.com/sites/aitoolhub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [AI Finder Plus](https://aifinderplus.com/) | — | dofollow | 55 | — | [Guide](https://everybacklink.com/sites/aifinderplus?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI Finder Plus](https://aifinderplus.com/) | Freemium | dofollow | 55 | — | [Guide](https://everybacklink.com/sites/aifinderplus?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Toolfolio](https://toolfolio.com/) | Paid | dofollow | 36 | — | [Guide](https://everybacklink.com/sites/toolfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI Tools Directory](https://aitoolsdirectory.vip/) | Freemium | — | 59 | — | [Guide](https://everybacklink.com/sites/aitoolsdirectory-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [All in AI Tools](https://allinai.tools/) | Freemium | — | 67 | — | [Guide](https://everybacklink.com/sites/allinai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
