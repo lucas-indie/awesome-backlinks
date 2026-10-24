@@ -2,15 +2,15 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 642 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 645 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (89)
+- [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (251)
-- [SaaS directory](#saas-directory) (52)
+- [SaaS directory](#saas-directory) (54)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
@@ -109,6 +109,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Launchpad](https://launchpad.ms/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchpad?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [LaunchRanked](https://launchranked.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchranked?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Stellar Launch](https://www.stellarlaunch.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/stellarlaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Canopy Launch Directory](https://canopystack.dev/launches) | Free | — | — | — | [Guide](https://everybacklink.com/sites/canopystack-launches?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
@@ -422,6 +423,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AZN8](https://azn8.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/azn8?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [CurlShip](https://curlship.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/curlship?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Startup Europe](https://startupeurope.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/startupeurope?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [BuildVoyage](https://buildvoyage.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/buildvoyage?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Discoverly](https://discoverly.tech/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/discoverly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
