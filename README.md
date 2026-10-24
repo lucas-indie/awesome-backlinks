@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 683 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 697 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -14,7 +14,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (123)
+- [Other](#other) (137)
 
 ## Launch platform
 
@@ -733,6 +733,20 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Beeg Directory](https://beegdirectory.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/beegdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Black and Blue Directory](https://blackandbluedirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/blackandbluedirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [BrowseInter](https://browseinter.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/browseinter?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [BusinessSeek](https://www.businessseek.biz/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/businessseek?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ClickSor Directory](https://clicksordirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/clicksordirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Directory 10](https://directory10.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/directory10?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Directory 3](https://directory3.org/) | — | — | — | — | [Guide](https://everybacklink.com/sites/directory3?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Directory 8](https://directory8.org/) | — | — | — | — | [Guide](https://everybacklink.com/sites/directory8?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Directory 9](https://directory9.biz/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/directory9?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [DIY ODP](https://www.diyodp.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/diyodp?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Eco Blue Directory](https://ecobluedirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ecobluedirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Family Dir](https://familydir.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/familydir?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FAT64.NET](https://fat64.net/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/fat64?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Free WebLink](https://free-weblink.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/free-weblink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FreeBacklink.org](https://freebacklink.org/) | Free | dofollow | — | — | [Guide](https://everybacklink.com/sites/freebacklink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Fruity Directory](https://fruity-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/fruity-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Greeny Directory](https://greenydirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/greenydirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
