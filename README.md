@@ -2,19 +2,19 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 589 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 597 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (231)
+- [AI directory](#ai-directory) (238)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (27)
-- [Other](#other) (101)
+- [Other](#other) (102)
 
 ## Launch platform
 
@@ -321,6 +321,13 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AIBloomly](https://aibloomly.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aibloomly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [vona AI Tools Directory](https://vonalab.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/vonalab?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AICompare.ninja](https://aicompare.ninja/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aicompare-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Herramientas IA](https://www.herramientasia.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/herramientasia?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [MY-BEST.AI](https://my-best.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/my-best?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI聚合](https://aijuhe.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/aijuhe?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Aitools-top](https://aitools-top.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aitools-top?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI宝库](https://aigembox.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aigembox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI工具箱](https://ai-toolbox.net/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AI码头](https://ai-dock.cn/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-dock?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
@@ -639,6 +646,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Enkling](https://enkling.com/) | — | — | 52 | — | [Guide](https://everybacklink.com/sites/enkling?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [4portfolio](https://4portfolio.ru/) | Freemium | — | 44 | — | [Guide](https://everybacklink.com/sites/4portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [GetListedUAE](https://getlisteduae.com/) | Freemium | dofollow | 63 | — | [Guide](https://everybacklink.com/sites/getlisteduae?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [51发现导航](https://51cgw9.cc/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/51cgw9?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
