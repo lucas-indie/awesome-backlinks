@@ -2,19 +2,19 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 645 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 651 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (90)
-- [AI directory](#ai-directory) (251)
-- [SaaS directory](#saas-directory) (54)
+- [AI directory](#ai-directory) (252)
+- [SaaS directory](#saas-directory) (58)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (105)
+- [Other](#other) (106)
 
 ## Launch platform
 
@@ -366,6 +366,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [热搜AI](https://ai.dreamthere.cn/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-dreamthere?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [NavCN](https://www.navcn.cn/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/navcn?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [映技派](https://www.yjpoo.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/yjpoo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Epirus Ventures AI Tools](https://www.epirus.vc/) | — | — | — | — | [Guide](https://everybacklink.com/sites/epirus?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
@@ -425,6 +426,10 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Startup Europe](https://startupeurope.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/startupeurope?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [BuildVoyage](https://buildvoyage.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/buildvoyage?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Discoverly](https://discoverly.tech/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/discoverly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [eBool](https://www.ebool.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/ebool?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Hubiify](https://hubiify.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/hubiify?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [IndieHustles](https://indiehustles.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/indiehustles?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [once.tools](https://once.tools/) | — | — | — | — | [Guide](https://everybacklink.com/sites/once?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
@@ -695,6 +700,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [HHlink 海外导航网](https://www.hhlink.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/hhlink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [霂明导航](https://n.mumingfang.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/n-mumingfang?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AlphaDigits](https://alphadigits.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/alphadigits?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [PromoteIndex](https://promoteindex.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/promoteindex?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
