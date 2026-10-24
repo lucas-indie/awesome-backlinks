@@ -4,7 +4,7 @@
 
 > 586 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
-Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 23 Oct 2026.
+Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
@@ -347,7 +347,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Tool Finder](https://toolfinder.co/) | Paid | — | 59 | — | [Guide](https://everybacklink.com/sites/toolfinder?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Vuink](https://vuink.com/) | — | — | 28 | — | [Guide](https://everybacklink.com/sites/vuink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AbabTools](https://ababtools.com/) | — | dofollow | 43 | — | [Guide](https://everybacklink.com/sites/ababtools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
-| [BizMenia \(formerly BigStartups\)](https://bizmenia.com/) | Free | — | 28 | — | [Guide](https://everybacklink.com/sites/bigstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [BizMenia \(formerly BigStartups\)](https://bizmenia.com/) | Freemium | — | 28 | — | [Guide](https://everybacklink.com/sites/bigstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [FiveTaco](https://fivetaco.com/) | — | dofollow | 33 | — | [Guide](https://everybacklink.com/sites/fivetaco?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Dirs.cc](https://dirs.cc/) | Freemium | dofollow | 42 | — | [Guide](https://everybacklink.com/sites/dirs?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Submission Web Directory](https://submissionwebdirectory.com/) | — | dofollow | 61 | — | [Guide](https://everybacklink.com/sites/submissionwebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
