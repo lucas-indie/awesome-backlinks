@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 653 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 665 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -10,7 +10,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 
 - [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (252)
-- [SaaS directory](#saas-directory) (59)
+- [SaaS directory](#saas-directory) (71)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
@@ -431,6 +431,18 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [once.tools](https://once.tools/) | — | — | — | — | [Guide](https://everybacklink.com/sites/once?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SaaS Dealer](https://www.saasdealer.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/saasdealer?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Startups List](https://startups-list.com/cities) | — | — | — | — | [Guide](https://everybacklink.com/sites/startups-list-cities?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Toolbird](https://toolbird.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/toolbird?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Visalytica](https://www.visalytica.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/visalytica?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Web Apps Directory](https://webapps.directory/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/webapps?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Webfolio](https://www.webfolio.to/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/webfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Website Rating](https://www.websiterating.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/websiterating?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Actually Good Tools](https://actuallygoodtools.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/actuallygoodtools?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [EverList](https://everlist.dev/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/everlist?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [findasaas](https://findasaas.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/findasaas?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [IndieAscent](https://indieascent.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/indieascent?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Startup Alternatives](https://startupalternatives.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/startupalternatives?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ToolSeekr](https://toolseekr.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/toolseekr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Tracxn](https://tracxn.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/tracxn?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
