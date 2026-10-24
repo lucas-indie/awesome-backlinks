@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 597 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 603 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (238)
+- [AI directory](#ai-directory) (244)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
@@ -328,6 +328,12 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [AI宝库](https://aigembox.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aigembox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI工具箱](https://ai-toolbox.net/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AI码头](https://ai-dock.cn/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-dock?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ToolDock](https://tools.zalize.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/tools-zalize?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ToolGPT](https://toolgpt.co/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/toolgpt?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Tooloso](https://www.tooloso.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/tooloso?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ToolTrove](https://tooltrove.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/tooltrove?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ToolVerity](https://toolverity.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/toolverity?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Tuvavo](https://tuvavo.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/tuvavo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
