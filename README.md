@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 603 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 606 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (244)
+- [AI directory](#ai-directory) (247)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
@@ -334,6 +334,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ToolTrove](https://tooltrove.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/tooltrove?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolVerity](https://toolverity.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/toolverity?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Tuvavo](https://tuvavo.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/tuvavo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [NavXD](https://navxd.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/navxd?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [全能公式](https://qngsvipai.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/qngsvipai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [寻AI](https://qwenai.site/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/qwenai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
