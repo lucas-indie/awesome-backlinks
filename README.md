@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 699 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 718 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -14,7 +14,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (140)
+- [Other](#other) (159)
 
 ## Launch platform
 
@@ -749,6 +749,25 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Greeny Directory](https://greenydirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/greenydirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Groovy Directory](https://groovy-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/groovy-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [High Rank Directory](https://highrankdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/highrankdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Jayde](https://www.jayde.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/jayde?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Just Directory](https://justdirectory.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/justdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Lemon Directory](https://lemon-directory.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/lemon-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Link Boy](https://link-boy.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/link-boy?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LinkDirectoryListings](https://linkdirectorylistings.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/linkdirectorylistings?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Linkedin Directory](https://linkedin-directory.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/linkedin-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LinkWith](https://linkwith.us/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/linkwith?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Linx.Directory](https://linx.directory/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/linx?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Marketing Internet Directory](https://marketinginternetdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/marketinginternetdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [MeWebLink](https://meweblink.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/meweblink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Phyco](https://phyco.org/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/phyco?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Popular Directory](https://populardirectory.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/populardirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [PRKatalog](https://prkatalog.info/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/prkatalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Reddit Directory](https://reddit-directory.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/reddit-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Relevant Directory](https://relevantdirectory.biz/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/relevantdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Royal Directory](https://royaldirectory.biz/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/royaldirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Search Domain Here](https://searchdomainhere.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/searchdomainhere?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SEO Listing](https://seolisting.io/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/seolisting?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Sites Web Directory](https://siteswebdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/siteswebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
