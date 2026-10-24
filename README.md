@@ -2,19 +2,19 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 606 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 614 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (247)
+- [Launch platform](#launch-platform) (66)
+- [AI directory](#ai-directory) (251)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
-- [Developer platform](#developer-platform) (27)
-- [Other](#other) (102)
+- [Developer platform](#developer-platform) (28)
+- [Other](#other) (104)
 
 ## Launch platform
 
@@ -85,6 +85,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [ComingUp](https://comingup.io/) | — | nofollow | 2 | — | [Guide](https://everybacklink.com/sites/comingup?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ProjectHunt](https://projecthunt.me/) | — | — | 46 | — | [Guide](https://everybacklink.com/sites/projecthunt?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SmolLaunch](https://smollaunch.com/) | Freemium | dofollow | 76 | — | [Guide](https://everybacklink.com/sites/smollaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [CLAPSTORM](https://www.clapstorm.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/clapstorm?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
@@ -337,6 +338,10 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [NavXD](https://navxd.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/navxd?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [全能公式](https://qngsvipai.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/qngsvipai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [寻AI](https://qwenai.site/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/qwenai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Zhijian100 AI工具导航](https://www.zhijian100.cn/) | — | — | — | — | [Guide](https://everybacklink.com/sites/zhijian100?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [热搜AI](https://ai.dreamthere.cn/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ai-dreamthere?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [NavCN](https://www.navcn.cn/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/navcn?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [映技派](https://www.yjpoo.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/yjpoo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
@@ -549,6 +554,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Packagist](https://packagist.org/) | — | — | 88 | — | [Guide](https://everybacklink.com/sites/packagist?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [CodeSandbox](https://codesandbox.io/) | — | — | 87 | — | [Guide](https://everybacklink.com/sites/codesandbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Docker Hub](https://hub.docker.com/) | Freemium | — | 92 | — | [Guide](https://everybacklink.com/sites/hub-docker?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SummHub 独立产品库](https://dev.summhub.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/dev-summhub?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Other
 
@@ -656,6 +662,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [4portfolio](https://4portfolio.ru/) | Freemium | — | 44 | — | [Guide](https://everybacklink.com/sites/4portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [GetListedUAE](https://getlisteduae.com/) | Freemium | dofollow | 63 | — | [Guide](https://everybacklink.com/sites/getlisteduae?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [51发现导航](https://51cgw9.cc/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/51cgw9?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [HHlink 海外导航网](https://www.hhlink.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/hhlink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [霂明导航](https://n.mumingfang.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/n-mumingfang?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
