@@ -2,14 +2,14 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 586 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 589 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
 - [Launch platform](#launch-platform) (65)
-- [AI directory](#ai-directory) (228)
+- [AI directory](#ai-directory) (231)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
@@ -318,6 +318,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [TechReel](https://techreel.in/) | — | — | — | — | [Guide](https://everybacklink.com/sites/techreel?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ThatsMyAI](https://thatsmy.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/thatsmy?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [The Next AI](https://thenextai.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/thenextai?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AIBloomly](https://aibloomly.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/aibloomly?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [vona AI Tools Directory](https://vonalab.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/vonalab?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AICompare.ninja](https://aicompare.ninja/) | — | — | — | — | [Guide](https://everybacklink.com/sites/aicompare-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## SaaS directory
 
