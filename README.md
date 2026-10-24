@@ -2,16 +2,16 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 623 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 630 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (75)
+- [Launch platform](#launch-platform) (81)
 - [AI directory](#ai-directory) (251)
 - [SaaS directory](#saas-directory) (49)
-- [Community](#community) (73)
+- [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
 - [Other](#other) (104)
@@ -95,6 +95,12 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [What Launched Today](https://whatlaunched.today/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/whatlaunched?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AINave](https://ainave.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/ainave?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Better Launch](https://www.betterlaunch.co/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/betterlaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [FindAlternate](https://www.findalternate.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/findalternate?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Hunt Startup](https://huntstartup.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/huntstartup?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [IndieNeed](https://www.indieneed.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/indieneed?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [JunkStartups](https://junkstartups.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/junkstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LaunchSpot](https://www.launchspot.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchspot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [OpenUpvote](https://openupvote.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/openupvote?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
@@ -483,6 +489,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Slashdot](https://slashdot.org/) | — | — | 87 | — | [Guide](https://everybacklink.com/sites/slashdot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Hatena](https://hatena.ne.jp/) | — | dofollow | 93 | — | [Guide](https://everybacklink.com/sites/hatena-ne?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [GETTR](https://gettr.com/) | — | nofollow | 77 | — | [Guide](https://everybacklink.com/sites/gettr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Favors.dev](https://favors.dev/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/favors?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Blog platform
 
