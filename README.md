@@ -2,13 +2,13 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 616 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 617 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (68)
+- [Launch platform](#launch-platform) (69)
 - [AI directory](#ai-directory) (251)
 - [SaaS directory](#saas-directory) (49)
 - [Community](#community) (73)
@@ -88,6 +88,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [CLAPSTORM](https://www.clapstorm.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/clapstorm?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Listed Startups](https://listedstartups.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/listedstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Spotlitely](https://www.spotlitely.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/spotlitely?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SuperPublic](https://superpublic.org/) | — | — | — | — | [Guide](https://everybacklink.com/sites/superpublic?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
