@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 735 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 747 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -14,7 +14,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (176)
+- [Other](#other) (188)
 
 ## Launch platform
 
@@ -785,6 +785,18 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [USA Websites Directory](https://usawebsitesdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/usawebsitesdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Site Promotion Directory](https://sitepromotiondirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/sitepromotiondirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [CTA.gallery](https://cta.gallery/) | — | — | — | — | [Guide](https://everybacklink.com/sites/cta?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Footer](https://footer.design/) | — | — | — | — | [Guide](https://everybacklink.com/sites/footer?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Siiimple](https://siiimple.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/siiimple?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Top Design King](https://topdesignking.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/topdesignking?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Unmatched Style](https://unmatchedstyle.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/unmatchedstyle?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [WD Awards](https://wdawards.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/wdawards?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Web Design Inspiration](https://www.webdesign-inspiration.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/webdesign-inspiration?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Bio Sites](https://biosites.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/biosites?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [HeyLink.me](https://heylink.me/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/heylink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [hoo.be](https://hoo.be/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/hoo?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [IntenseDebate](https://intensedebate.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/intensedebate?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Lnk.Bio](https://lnk.bio/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/lnk?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [many.link](https://many.link/) | — | — | — | — | [Guide](https://everybacklink.com/sites/many?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
