@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 718 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 735 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -14,7 +14,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Community](#community) (73)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (159)
+- [Other](#other) (176)
 
 ## Launch platform
 
@@ -768,6 +768,23 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Search Domain Here](https://searchdomainhere.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/searchdomainhere?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [SEO Listing](https://seolisting.io/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/seolisting?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Sites Web Directory](https://siteswebdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/siteswebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Smart SEO Link](https://smartseolink.org/) | — | — | — | — | [Guide](https://everybacklink.com/sites/smartseolink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Sonic Run](https://sonicrun.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/sonicrun?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [TxtLinks](https://txtlinks.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/txtlinks?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [USA Listing Directory](https://usalistingdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/usalistingdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Cipinet Directory](https://cipinet.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/cipinet?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Free Internet Web Directory](https://freeinternetwebdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/freeinternetwebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Free PR Web Directory](https://freeprwebdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/freeprwebdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Gain Web](https://gainweb.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/gainweb?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Link Centre](https://linkcentre.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/linkcentre?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [OneMillionDirectory](https://onemilliondirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/onemilliondirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [ProLink Directory](https://prolinkdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/prolinkdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Promote Business Directory](https://promotebusinessdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/promotebusinessdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Quality Internet Directory](https://qualityinternetdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/qualityinternetdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SoMuch.com](https://somuch.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/somuch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [USA Websites Directory](https://usawebsitesdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/usawebsitesdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Site Promotion Directory](https://sitepromotiondirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/sitepromotiondirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [CTA.gallery](https://cta.gallery/) | — | — | — | — | [Guide](https://everybacklink.com/sites/cta?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
