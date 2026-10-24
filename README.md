@@ -2,19 +2,19 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 630 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 642 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
 ## Contents
 
-- [Launch platform](#launch-platform) (81)
+- [Launch platform](#launch-platform) (89)
 - [AI directory](#ai-directory) (251)
-- [SaaS directory](#saas-directory) (49)
+- [SaaS directory](#saas-directory) (52)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (104)
+- [Other](#other) (105)
 
 ## Launch platform
 
@@ -101,6 +101,14 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [JunkStartups](https://junkstartups.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/junkstartups?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [LaunchSpot](https://www.launchspot.ai/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchspot?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [OpenUpvote](https://openupvote.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/openupvote?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Product Watch](https://productwatch.io/) | — | — | — | — | [Guide](https://everybacklink.com/sites/productwatch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Pulse by Welodge](https://pulse.welodge.co.zw/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/pulse-welodge-co?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SaaSaur](https://saasaur.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/saasaur?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Shipstry](https://shipstry.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/shipstry?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Tool Atlas](https://toolatlas.io/) | — | — | — | — | [Guide](https://everybacklink.com/sites/toolatlas?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Launchpad](https://launchpad.ms/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchpad?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [LaunchRanked](https://launchranked.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/launchranked?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Stellar Launch](https://www.stellarlaunch.org/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/stellarlaunch?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## AI directory
 
@@ -411,6 +419,9 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Software Advice](https://softwareadvice.com/) | Freemium | — | 87 | — | [Guide](https://everybacklink.com/sites/softwareadvice?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Alternative.tools](https://alternative.tools/) | Freemium | dofollow | 29 | — | [Guide](https://everybacklink.com/sites/alternative-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [NoiseWork](https://noisework.cn/) | — | — | 42 | — | [Guide](https://everybacklink.com/sites/noisework?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AZN8](https://azn8.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/azn8?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [CurlShip](https://curlship.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/curlship?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Startup Europe](https://startupeurope.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/startupeurope?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
@@ -680,6 +691,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [51发现导航](https://51cgw9.cc/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/51cgw9?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [HHlink 海外导航网](https://www.hhlink.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/hhlink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [霂明导航](https://n.mumingfang.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/n-mumingfang?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [AlphaDigits](https://alphadigits.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/alphadigits?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
