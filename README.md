@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 665 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 683 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -10,11 +10,11 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 
 - [Launch platform](#launch-platform) (90)
 - [AI directory](#ai-directory) (252)
-- [SaaS directory](#saas-directory) (71)
+- [SaaS directory](#saas-directory) (73)
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (107)
+- [Other](#other) (123)
 
 ## Launch platform
 
@@ -443,6 +443,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Startup Alternatives](https://startupalternatives.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/startupalternatives?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [ToolSeekr](https://toolseekr.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/toolseekr?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Tracxn](https://tracxn.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/tracxn?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Startupxplore](https://startupxplore.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/startupxplore?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [VentureRadar](https://www.ventureradar.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ventureradar?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## Community
 
@@ -715,6 +717,22 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [霂明导航](https://n.mumingfang.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/n-mumingfang?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [AlphaDigits](https://alphadigits.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/alphadigits?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [PromoteIndex](https://promoteindex.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/promoteindex?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Directory Index](https://directory-index.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/directory-index?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [247WebDirectory](https://www.247webdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/247webdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [9Sites.net](https://9sites.net/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/9sites?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Ad Directory](https://addirectory.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/addirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Ad Links](https://ad-links.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/ad-links?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Add Good Sites](https://addgoodsites.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/addgoodsites?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Add My URL](https://www.admyurl.com/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/admyurl?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [All Business Directory](https://www.allbusinessdirectory.biz/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/allbusinessdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [All States USA Directory](https://www.allstatesusadirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/allstatesusadirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Aquarius Dir](https://aquarius-dir.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/aquarius-dir?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Ask Dir](https://ask-dir.org/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/ask-dir?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Ask Directory](https://ask-directory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/ask-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Backdata](https://backdata.net/) | — | — | — | — | [Guide](https://everybacklink.com/sites/backdata?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Beeg Directory](https://beegdirectory.com/) | Paid | — | — | — | [Guide](https://everybacklink.com/sites/beegdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Black and Blue Directory](https://blackandbluedirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/blackandbluedirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [BrowseInter](https://browseinter.net/) | Free | — | — | — | [Guide](https://everybacklink.com/sites/browseinter?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
