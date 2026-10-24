@@ -2,7 +2,7 @@
 
 **Website: [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks)**, searchable and filterable, with a submit guide for every site.
 
-> 697 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
+> 699 launch platforms, directories and communities where you can submit a new website for a backlink, with price, link type, Domain Rating (DR) and monthly visits.
 
 Requirements, step-by-step submit guides and filters for every site are on [everybacklink.com](https://everybacklink.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks). Updated 24 Oct 2026.
 
@@ -14,7 +14,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 - [Community](#community) (74)
 - [Blog platform](#blog-platform) (43)
 - [Developer platform](#developer-platform) (28)
-- [Other](#other) (137)
+- [Other](#other) (139)
 
 ## Launch platform
 
@@ -747,6 +747,8 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [FreeBacklink.org](https://freebacklink.org/) | Free | dofollow | — | — | [Guide](https://everybacklink.com/sites/freebacklink?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Fruity Directory](https://fruity-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/fruity-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Greeny Directory](https://greenydirectory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/greenydirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [Groovy Directory](https://groovy-directory.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/groovy-directory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [High Rank Directory](https://highrankdirectory.com/) | Freemium | — | — | — | [Guide](https://everybacklink.com/sites/highrankdirectory?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 
 ## License
 
